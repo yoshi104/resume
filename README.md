@@ -1,4 +1,4 @@
-# { name } resume
+# Yoshiyuki's resume
 
 ## Sample
 
