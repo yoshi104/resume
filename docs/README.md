@@ -31,6 +31,7 @@
 * SourceTree
 * Firebase
 * App Center
+* DeployGate
 * Adobe XD
 * Charles
 * Backlog
