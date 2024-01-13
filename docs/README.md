@@ -12,7 +12,7 @@
 
 ## 保有スキル
 * Swiftを用いたiOSアプリ開発
-* iOSアプリ開発設計
+* iOSアプリ設計開発
 * チームビルディング
 
 ### 言語
@@ -20,17 +20,19 @@
 
 ### フレームワーク・その他
 * アーキテクチャ: Clean Architecture、MVC、MVP、MVVM
-* ライブラリ管理: CocoaPods、SwiftPM、Mint
+* ライブラリ管理: CocoaPods、SPM、Mint
 * バージョン管理: Git
 * プロジェクト管理: XcodeGen
 * 外部ツール: Firebase
 
 ### 経験のある開発関連ツール
 * Xcode
+* Android Studio
 * Visual Studio Code
 * SourceTree
 * Firebase
 * App Center
+* DeplyGate
 * Adobe XD
 * Charles
 * Backlog
@@ -38,9 +40,19 @@
 
 ---
 
-## 職務経歴詳細
+## 職務経歴
+### 株式会社Kyash（2022/09 ~ 現在）
+| 項目 | 内容 |
+| :---:| :--- |
+| プロジェクト概要 |  |
+| アプリに含まれる主な機能 |  |
+| チーム構成 | |
+| 担当業務 | 実装<br>バックエンドのAPI設計及びサーバーサイドとのコミュニケーション<br>Android側とのコミュニケーション<br>デザイナーとのコミュニケーション<br>PMとのコミュニケーション |
+| 使用技術| Swift / SwiftUI<br>KMP<br>Firebase<br>XcodeGen<br>GitHubActions|
+| ライブラリ管理 | SPM |
+| アーキテクチャ | KMP + SwiftUI |
 
-### ピーシーフェーズ株式会社（2020/07〜現在）
+### ピーシーフェーズ株式会社（2020/07 ~ 2022/08）
 **2022/03 ~ 2022/06**
 
 | 項目 | 内容 |
@@ -50,7 +62,7 @@
 | チーム構成 | PM: 1名<br>デザイナー: 1名<br>サーバーサイド: 4名<br>iOS: 2名<br>Android: ２名<br>webフロント1名|
 | 担当業務 | 実装<br>バックエンドのAPI設計及びサーバーサイドとのコミュニケーション<br>Android側とのコミュニケーション<br>デザイナーとのコミュニケーション<br>PMとのコミュニケーション |
 | 使用技術| Swift<br>SwiftUI<br>Combine<br>Firebase<br>XcodeGen<br>|
-| ライブラリ管理 | SwiftPM |
+| ライブラリ管理 | SPM |
 | アーキテクチャ | MVVM |
 
 **2022/01 ~ 2022/02**
@@ -195,5 +207,6 @@
 ユーザーの現在地から徒歩約10分以内のお店や施設を簡単に探すことのできる[チカクノ](https://apps.apple.com/jp/app/%E3%83%81%E3%82%AB%E3%82%AF%E3%83%8E/id1518477548)というiOSアプリをリリースしています。文字入力での検索は面倒なので、あらかじめ好きなジャンルを登録しておけばワンタップで行きたい場所を探せるのがポイントです。
 
 ### 勉強会の主催
-エンジニアの[コミュニティ](https://community.camp-fire.jp/projects/view/280040)内で技術書の輪読会を2011年12月から主催しています。[振り返り記事](https://note.com/katoto/n/n43803591088e)を書いているのでぜひご覧ください。
-
+エンジニアの[コミュニティ](https://community.camp-fire.jp/projects/view/280040)内で技術書の輪読会を2020年12月から主催しています。以下の媒体に輪読会についての記事を書いています。
+* [振り返り記事](https://note.com/katoto/n/n43803591088e)
+* 技術書典15  [エンジニアと人生コミュニティ合同本](https://techbookfest.org/product/wwF0jLSvGBN9UNr03QZyZ5?productVariantID=8FFiXMmxxKyUvzQKrE7JsB) 第５章 エンジニアと輪読会
