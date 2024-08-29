@@ -1,9 +1,4 @@
 # Yoshiyuki's resume
-
-## Sample
-
-https://github.com/kawamataryo/resume
-
 ## Features
 
 ### 💅 Lint text
