@@ -45,6 +45,7 @@
 
 ## 職務経歴
 <details><summary>株式会社Kyash（2022/09 ~ 現在）</summary>
+
 | 項目 | 内容 |
 | :---:| :--- |
 | プロジェクト概要 |  |
@@ -54,9 +55,11 @@
 | 使用技術| Swift / SwiftUI<br>KMP<br>Firebase<br>XcodeGen<br>GitHubActions|
 | ライブラリ管理 | SPM |
 | アーキテクチャ | KMP + SwiftUI |
+
 </details>
 
 <details><summary>ピーシーフェーズ株式会社（2020/07 ~ 2022/08）</summary>
+
 **2022/03 ~ 2022/06**
 
 | 項目 | 内容 |
@@ -167,6 +170,7 @@
 * チームメンバーのメンタリング
 * times文化の導入
 * オンライン雑談会の企画/運営
+
 </details>
 
 
@@ -179,6 +183,7 @@
 | チーム構成 | PM: 1名<br>チームメンバー: 9名<br>（プロジェクト全体としては100名以上）
 | 担当業務 | 実装<br>テスト<br>PMとのコミュニケーション<br>ドキュメントの整備<br> |
 | 使用技術| PL/SQL<br>Oracle |
+
 </details>
 
 <details><summary>オープラン株式会社（2018/05〜2019/07）</summary>
@@ -209,6 +214,7 @@
 | チーム構成 | PM: 1名<br>チームメンバー: 3名<br>プロジェクト全体としては20名
 | 担当業務 | 実装<br>ドキュメントの整備 |
 | 使用技術| SQL<br>batch |
+
 </details>
 
 
