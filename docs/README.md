@@ -11,12 +11,15 @@
 |note|https://note.com/katoto|
 
 ## 保有スキル
-* Swiftを用いたiOSアプリ開発
-* iOSアプリ設計開発
-* チームビルディング
+* Swiftを用いたiOSアプリの設計・開発
+* Kotlin Multiplatform（KMP）を用いた開発
+* チーム内のコミュニケーション活性化やリリースサイクルを早めるためのチームビルディング
+* アジャイル/スクラム開発
+* 効率的なミーティングファシリテーション
 
 ### 言語
 * Swift
+* Kotlin
 
 ### フレームワーク・その他
 * アーキテクチャ: Clean Architecture、MVC、MVP、MVVM
