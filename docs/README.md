@@ -41,7 +41,7 @@
 ---
 
 ## 職務経歴
-### 株式会社Kyash（2022/09 ~ 現在）
+<details><summary>株式会社Kyash（2022/09 ~ 現在）</summary>
 | 項目 | 内容 |
 | :---:| :--- |
 | プロジェクト概要 |  |
@@ -51,8 +51,9 @@
 | 使用技術| Swift / SwiftUI<br>KMP<br>Firebase<br>XcodeGen<br>GitHubActions|
 | ライブラリ管理 | SPM |
 | アーキテクチャ | KMP + SwiftUI |
+</details>
 
-### ピーシーフェーズ株式会社（2020/07 ~ 2022/08）
+<details><summary>ピーシーフェーズ株式会社（2020/07 ~ 2022/08）</summary>
 **2022/03 ~ 2022/06**
 
 | 項目 | 内容 |
@@ -163,8 +164,10 @@
 * チームメンバーのメンタリング
 * times文化の導入
 * オンライン雑談会の企画/運営
+</details>
 
-### JOY FOR JOY株式会社（2019/08〜2020/06）
+
+<details><summary>JOY FOR JOY株式会社（2019/08〜2020/06）</summary>
 
 **2019/08 ~ 2020/06**
 | 項目 | 内容 |
@@ -173,8 +176,10 @@
 | チーム構成 | PM: 1名<br>チームメンバー: 9名<br>（プロジェクト全体としては100名以上）
 | 担当業務 | 実装<br>テスト<br>PMとのコミュニケーション<br>ドキュメントの整備<br> |
 | 使用技術| PL/SQL<br>Oracle |
+</details>
 
-:::details  ### オープラン株式会社（2018/05〜2019/07）
+<details><summary>オープラン株式会社（2018/05〜2019/07）</summary>
+
 **2018/04 ~ 2019/07**
 
 | 項目 | 内容 |
@@ -201,12 +206,24 @@
 | チーム構成 | PM: 1名<br>チームメンバー: 3名<br>プロジェクト全体としては20名
 | 担当業務 | 実装<br>ドキュメントの整備 |
 | 使用技術| SQL<br>batch |
+</details>
+
 
 ## 業務外活動
 ### 個人開発
+#### Coffue
+コーヒーに関するイベントがみつかるサービスを運営しています。<br>
+https://coffue.com
+
+#### チカクノ
 ユーザーの現在地から徒歩約10分以内のお店や施設を簡単に探すことのできる[チカクノ](https://apps.apple.com/jp/app/%E3%83%81%E3%82%AB%E3%82%AF%E3%83%8E/id1518477548)というiOSアプリをリリースしています。文字入力での検索は面倒なので、あらかじめ好きなジャンルを登録しておけばワンタップで行きたい場所を探せるのがポイントです。
 
 ### 勉強会の主催
 エンジニアの[コミュニティ](https://community.camp-fire.jp/projects/view/280040)内で技術書の輪読会を2020年12月から主催しています。以下の媒体に輪読会についての記事を書いています。
 * [振り返り記事](https://note.com/katoto/n/n43803591088e)
-* 技術書典15  [エンジニアと人生コミュニティ合同本](https://techbookfest.org/product/wwF0jLSvGBN9UNr03QZyZ5?productVariantID=8FFiXMmxxKyUvzQKrE7JsB) 第５章 エンジニアと輪読会
+
+### 執筆
+所属するコミュニティで合同本を出版した際に寄稿させていただきました。<br>
+輪読会の主催について記載しており、スモールな勉強会の立ち上げ方や運営方法、長く続けるコツや意識すべきことについて書いています。<br>
+
+技術書典15  [エンジニアと人生コミュニティ合同本](https://techbookfest.org/product/wwF0jLSvGBN9UNr03QZyZ5?productVariantID=8FFiXMmxxKyUvzQKrE7JsB) 第５章 エンジニアと輪読会
